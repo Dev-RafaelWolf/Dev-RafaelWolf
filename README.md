@@ -1,16 +1,21 @@
-### Hi there 👋
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://br.linkedin.com/in/rafaelmbwolf)
 
-<!--
-**Dev-RafaelWolf/Dev-RafaelWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Frafaelwolf.com.br)](https://rafaelwolf.com.br)
 
-Here are some ideas to get you started:
+### Hi there, I'm Rafael Wolf. Back-end developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I have a special interested in:
+- ServerLess Tecnollogies 
+- System and Data Integrations 
+- SQL Tuning 
+- Data Mining / Data Science
+
+### I have knowledge in:
+- Delphi / PHP / JAVA
+- HTML / CSS
+- SQL-Server / MySQL / PostgreSQL / Firebird
+- API's Rest / SOAP / GraphQL
+
+### I’m currently learning: 
+- Python 
+- JavaScript / NodeJS
